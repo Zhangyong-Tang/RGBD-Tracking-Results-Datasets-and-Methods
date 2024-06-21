@@ -132,7 +132,7 @@ This repository is started on 27/12/2023, and will keep on updating.**
     <tr>
     	<td> RGBD1K</td>
     	<td>AAAI'2023</td>
-	<td></td>
+	<td>25.3</td>
     	<td> 65.4</td>
     	<td> 72.6</td>
     	<td> 68.8</td>
@@ -175,9 +175,9 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> DeT</td>
     	<td>ICCV'2021</td>
 	<td></td>
-    	<td> </td>
-    	<td> </td>
-    	<td> </td>
+    	<td> 67.4</td>
+    	<td> 64.2</td>
+    	<td> 65.7</td>
    	<td> 56.0</td>
     	<td> 50.6</td>
     	<td> 53.2</td>
@@ -199,7 +199,35 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> </td>
     	<td> </td>
     </tr>
-	
+    <tr>
+    	<td> SiamOC</td>
+    	<td>ICSP'2021</td>
+	<td></td>
+    	<td> 41.1</td>
+    	<td> 34.6</td>
+    	<td> 37.6</td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> DAL</td>
+    	<td>ICPR'2021</td>
+	<td>20</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 61.8</td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+</table>
 
 <table>
     <tr> 
@@ -269,7 +297,7 @@ This repository is started on 27/12/2023, and will keep on updating.**
     <tr>
     	<td> RGBD1K</td>
     	<td>AAAI'2023</td>
-	<td></td>
+	<td>25.3</td>
     	<td> 54.5</td>
     	<td> 57.8</td>
     	<td> 56.1</td>
@@ -316,7 +344,7 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> Large</td>
     	<td> Small</td>
     	<td> Slow</td>
-    	<td> Faast</td>
+    	<td> Fast</td>
     	<td> Occ.</td>
     	<td> No-Occ.</td>
     	<td> Passive</td>
@@ -340,6 +368,493 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> </td>
     	<td> </td>
     </tr>
+    <tr>
+    	<td> FECD</td>
+    	<td>PRL'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> 63.0</td>
+    	<td> 65.0</td>
+    	<td> 85.0</td>
+    	<td> 88.0</td>
+    	<td> 75.0</td>
+    	<td> 80.0</td>
+    	<td> 88.0</td>
+    	<td> 73.0</td>
+    	<td> 65.0</td>
+    	<td> 94.0</td>
+    	<td> 89.0</td>
+    	<td> 73.0</td>
+    </tr>
+	    <tr>
+    	<td> RGBD1K</td>
+    	<td>AAAI'2023</td>
+	<td>25.3</td>
+    	<td> </td>
+    	<td> 67.0</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+	    <tr>
+    	<td> DMTracker</td>
+    	<td>ECCVW'2022</td>
+	<td></td>
+    	<td> </td>
+    	<td> 63.0</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> TSDM</td>
+    	<td>ICPR'2021</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 71.0</td>
+    	<td> 85.0</td>
+    	<td> 86.0</td>
+    	<td> 77.0</td>
+    	<td> 81.0</td>
+    	<td> 87.0</td>
+    	<td> 76.0</td>
+    	<td> 69.0</td>
+    	<td> 94.0</td>
+    	<td> 84.0</td>
+    	<td> 78.0</td>
+    </tr>
+    <tr>
+    	<td> 3s-RGBD</td>
+    	<td>Neurocomputing'2021</td>
+	<td> </td>
+    	<td> 59.0</td>
+    	<td> 49.0</td>
+    	<td> 77.0</td>
+    	<td> 68.0</td>
+    	<td> 81.0</td>
+    	<td> 76.0</td>
+    	<td> 77.0</td>
+    	<td> 81.0</td>
+    	<td> 75.0</td>
+    	<td> 71.0</td>
+    	<td> 85.0</td>
+    	<td> 85.0</td>
+    	<td> 74.0</td>
+    </tr>
+    <tr>
+    	<td> DAL</td>
+    	<td>ICPR'2021</td>
+	<td>20</td>
+    	<td> 85.0</td>
+    	<td> 64.0</td>
+    	<td> 78.0</td>
+    	<td> 86.0</td>
+    	<td> 81.0</td>
+    	<td> 76.0</td>
+    	<td> 84.0</td>
+    	<td> 83.0</td>
+    	<td> 80.0</td>
+    	<td> 72.0</td>
+    	<td> 93.0</td>
+    	<td> 78.0</td>
+    	<td> 82.0</td>
+    </tr>
+    <tr>
+    	<td> WCO</td>
+    	<td>IEEE Sensors Journal'2020</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 78.0</td>
+    	<td> 67.0</td>
+    	<td> 80.0</td>
+    	<td> 76.0</td>
+    	<td> 75.0</td>
+    	<td> 78.0</td>
+    	<td> 73.0</td>
+    	<td> 66.0</td>
+    	<td> 86.0</td>
+    	<td> 85.0</td>
+    	<td> 72.0</td>
+    </tr>
+    <tr>
+    	<td> RF-CFF</td>
+    	<td>Applied Soft Computing Journal'2020</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 62.0</td>
+    	<td> 79.0</td>
+    	<td> 78.0</td>
+    	<td> 69.0</td>
+    	<td> 73.0</td>
+    	<td> 81.0</td>
+    	<td> 68.0</td>
+    	<td> 57.0</td>
+    	<td> 91.0</td>
+    	<td> 80.0</td>
+    	<td> 68.0</td>
+    </tr>
+    <tr>
+    	<td> CF-RGBD</td>
+    	<td>Engineering Applications of Artificial Intelligence'2020</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 61.0</td>
+    	<td> 75.0</td>
+    	<td> 80.0</td>
+    	<td> 71.0</td>
+    	<td> 71.0</td>
+    	<td> 79.0</td>
+    	<td> 68.0</td>
+    	<td> 56.0</td>
+    	<td> 91.0</td>
+    	<td> 80.0</td>
+    	<td> 67.0</td>
+    </tr>
+    <tr>
+    	<td> CA3DMS</td>
+    	<td>TMM'2019</td>
+	<td>63</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 64.0</td>
+    	<td> 73.0</td>
+    	<td> 81.0</td>
+    	<td> 73.0</td>
+    	<td> 72.0</td>
+    	<td> 80.0</td>
+    	<td> 69.0</td>
+    	<td> 61.0</td>
+    	<td> 88.0</td>
+    	<td> 83.0</td>
+    	<td> 68.0</td>
+    </tr>
+    <tr>
+    	<td> Depth-CCF</td>
+    	<td>GSKI'2019</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 70.0</td>
+    	<td> 65.0</td>
+    	<td> 79.0</td>
+    	<td> 71.0</td>
+    	<td> 73.0</td>
+    	<td> 78.0</td>
+    	<td> 70.0</td>
+    	<td> 64.0</td>
+    	<td> 84.0</td>
+    	<td> 84.0</td>
+    	<td> 67.0</td>
+    </tr>
+    <tr>
+    	<td> H-FCN</td>
+    	<td>INFFUS'2019</td>
+	<td>19.47</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 81.0</td>
+    	<td> 74.0</td>
+    	<td> 80.0</td>
+    	<td> 82.0</td>
+    	<td> 77.0</td>
+    	<td> 78.0</td>
+    	<td> 74.0</td>
+    	<td> 83.0</td>
+    	<td> 87.0</td>
+    	<td> 80.0</td>
+    	<td> 78.0</td>
+    </tr>
+    <tr>
+    	<td> OTR</td>
+    	<td>CVPR'2019</td>
+	<td></td>
+    	<td> 59.0</td>
+    	<td> 49.0</td>
+    	<td> 77.0</td>
+    	<td> 68.0</td>
+    	<td> 81.0</td>
+    	<td> 76.0</td>
+    	<td> 77.0</td>
+    	<td> 81.0</td>
+    	<td> 75.0</td>
+    	<td> 71.0</td>
+    	<td> 85.0</td>
+    	<td> 85.0</td>
+    	<td> 74.0</td>
+    </tr>
+    <tr>
+    	<td> RGBD-OD</td>
+    	<td>CIS'2019</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 72.0</td>
+    	<td> 71.0</td>
+    	<td> 73.0</td>
+    	<td> 74.0</td>
+    	<td> 71.0</td>
+    	<td> 76.0</td>
+    	<td> 70.0</td>
+    	<td> 65.0</td>
+    	<td> 82.0</td>
+    	<td> 77.0</td>
+    	<td> 70.0</td>
+    </tr>
+    <tr>
+    	<td> HST</td>
+    	<td>CCIFER'2019</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 66.0</td>
+    	<td> 62.0</td>
+    	<td> 77.0</td>
+    	<td> 69.0</td>
+    	<td> 69.0</td>
+    	<td> 74.0</td>
+    	<td> 68.0</td>
+    	<td> 62.0</td>
+    	<td> 79.0</td>
+    	<td> 78.0</td>
+    	<td> 66.0</td>
+    </tr>
+    <tr>
+    	<td> ECO_TA</td>
+    	<td>IEEE Sensors Journal'2019</td>
+	<td>13.1</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 77.0</td>
+    	<td> 65.0</td>
+    	<td> 79.0</td>
+    	<td> 77.0</td>
+    	<td> 74.0</td>
+    	<td> 79.0</td>
+    	<td> 74.0</td>
+    	<td> 68.0</td>
+    	<td> 85.0</td>
+    	<td> 84.0</td>
+    	<td> 72.0</td>
+    </tr>
+    <tr>
+    	<td> GFL</td>
+    	<td>Complexity'2019</td>
+	<td>20.74</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 82.0</td>
+    	<td> 75.0</td>
+    	<td> 78.0</td>
+    	<td> 81.0</td>
+    	<td> 74.0</td>
+    	<td> 82.0</td>
+    	<td> 73.0</td>
+    	<td> 81.0</td>
+    	<td> 84.0</td>
+    	<td> 79.0</td>
+    	<td> 68.0</td>
+    </tr>
+    <tr>
+    	<td> DM-DCF</td>
+    	<td>ICPR'2018</td>
+	<td>8.3</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 76.0</td>
+    	<td> 58.0</td>
+    	<td> 77.0</td>
+    	<td> 72.0</td>
+    	<td> 73.0</td>
+    	<td> 75.0</td>
+    	<td> 72.0</td>
+    	<td> 69.0</td>
+    	<td> 78.0</td>
+    	<td> 82.0</td>
+    	<td> 69.0</td>
+    </tr>
+    <tr>
+    	<td> CSRDCF_RGBD++</td>
+    	<td>ECCVW'2018</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 77.0</td>
+    	<td> 65.0</td>
+    	<td> 76.0</td>
+    	<td> 75.0</td>
+    	<td> 73.0</td>
+    	<td> 80.0</td>
+    	<td> 72.0</td>
+    	<td> 70.0</td>
+    	<td> 79.0</td>
+    	<td> 79.0</td>
+    	<td> 72.0</td>
+    </tr>
+    <tr>
+    	<td> MMDFF</td>
+    	<td>Complexity'2018</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 83.0</td>
+    	<td> 86.0</td>
+    	<td> 85.0</td>
+    	<td> 85.0</td>
+    	<td> 86.0</td>
+    	<td> 82.0</td>
+    	<td> 83.0</td>
+    	<td> 87.0</td>
+    	<td> 87.0</td>
+    	<td> 82.0</td>
+    	<td> 83.0</td>
+    </tr>
+    <tr>
+    	<td> OAPCF</td>
+    	<td>IEEE Access'2018</td>
+	<td>17</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 70.0</td>
+    	<td> 66.0</td>
+    	<td> 68.0</td>
+    	<td> 69.0</td>
+    	<td> 70.0</td>
+    	<td> 75.0</td>
+    	<td> 67.0</td>
+    	<td> 73.0</td>
+    	<td> 76.0</td>
+    	<td> 71.0</td>
+    	<td> 69.0</td>
+    </tr>
+   <tr>
+    	<td> KCFDF</td>
+    	<td>ICONIP'2017</td>
+	<td>10.49</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 45.0</td>
+    	<td> 72.0</td>
+    	<td> 75.0</td>
+    	<td> 55.0</td>
+    	<td> 67.0</td>
+    	<td> 73.0</td>
+    	<td> 57.0</td>
+    	<td> 43.0</td>
+    	<td> 87.0</td>
+    	<td> 69.0</td>
+    	<td> 59.0</td>
+    </tr>
+   <tr>
+    	<td> DBM</td>
+    	<td>Sensors'2017</td>
+	<td>0.1</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 80.1</td>
+    	<td> 72.9</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 82.3</td>
+    	<td> 77.5</td>
+    	<td> 81.2</td>
+    	<td> 82.6</td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+   <tr>
+    	<td> DLS</td>
+    	<td>ICPR'2016</td>
+	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 77.0</td>
+    	<td> 69.0</td>
+    	<td> 73.0</td>
+    	<td> 80.0</td>
+    	<td> 70.0</td>
+    	<td> 73.0</td>
+    	<td> 74.0</td>
+    	<td> 66.0</td>
+    	<td> 85.0</td>
+    	<td> 72.0</td>
+    	<td> 75.0</td>
+    </tr>
+   <tr>
+    	<td> OAPF</td>
+    	<td>CVIU'2016</td>
+	<td>0.9</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 64.2</td>
+    	<td> 84.8</td>
+    	<td> 77.2</td>
+    	<td> 72.7</td>
+    	<td> 73.4</td>
+    	<td> 85.1</td>
+    	<td> 68.4</td>
+    	<td> 64.4</td>
+    	<td> 85.1</td>
+    	<td> 77.7</td>
+    	<td> 71.4</td>
+    </tr>
+   <tr>
+    	<td> 3D-T</td>
+    	<td>CVPR'2016</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 81.0</td>
+    	<td> 64.0</td>
+    	<td> 73.0</td>
+    	<td> 80.0</td>
+    	<td> 71.0</td>
+    	<td> 75.0</td>
+    	<td> 75.0</td>
+    	<td> 73.0</td>
+    	<td> 78.0</td>
+    	<td> 79.0</td>
+    	<td> 73.0</td>
+    </tr>
+   <tr>
+    	<td> DOHR</td>
+    	<td>FSKD'2016</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 45.0</td>
+    	<td> 49.0</td>
+    	<td> 42.0</td>
+    	<td> 48.0</td>
+    	<td> 42.0</td>
+    	<td> 50.0</td>
+    	<td> 43.0</td>
+    	<td> 38.0</td>
+    	<td> 54.0</td>
+    	<td> 54.0</td>
+    	<td> 41.0</td>
+    </tr>
+</table>
 
 -----
 ## Contributors
