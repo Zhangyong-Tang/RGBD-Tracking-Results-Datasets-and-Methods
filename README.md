@@ -322,6 +322,62 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> </td>
     	<td> </td>
     </tr>
+    <tr>
+    	<td> DMTracker</td>
+    	<td>ECCVW'2022</td>
+	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 66.9</td>
+    	<td> 64.4</td>
+    	<td> 65.6</td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> DeT</td>
+    	<td>ICCV'2021</td>
+	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 60.8</td>
+    	<td> 58.7</td>
+    	<td> 59.7</td>
+   	<td> 42.8</td>
+    	<td> 40.5</td>
+    	<td> 41.6</td>
+    </tr>
+    <tr>
+    	<td> DAL</td>
+    	<td>ICPR'2021</td>
+	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 52.9</td>
+    	<td> 56.5</td>
+    	<td> 54.7</td>
+   	<td> 44.6</td>
+    	<td> 32.9</td>
+    	<td> 37.8</td>
+    </tr>
+    <tr>
+    	<td> TSDM</td>
+    	<td>ICPR'2021</td>
+	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 52.1</td>
+    	<td> 49.2</td>
+    	<td> 50.6</td>
+   	<td> 38.9</td>
+    	<td> 29.2</td>
+    	<td> 33.4</td>
+    </tr>
 </table>
 
 <table>
