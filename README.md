@@ -55,23 +55,107 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> Pr</td>
     	<td> Re</td>
     	<td> F-score</td>
-   	<td> Pr</td>
-    	<td> Re</td>
-    	<td> F-score</td>
-    </tr>
-    <tr>
-    	<td> Methods</td>
-    	<td>Venue</td>
-	<td>Speed</td>
-    	<td> Pr</td>
-    	<td> Re</td>
-    	<td> F-score</td>
-   	<td> Pr</td>
-    	<td> Re</td>
-    	<td> F-score</td>
    	<td> A</td>
     	<td> R</td>
     	<td> EAO</td>
+    </tr>
+    <tr>
+    	<td> OneTrack</td>
+    	<td>CVPR'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 60.7</td>
+    	<td> 60.4</td>
+    	<td> 60.9</td>
+   	<td> 87.2</td>
+    	<td> 81.9</td>
+    	<td> 72.7</td>
+    </tr>
+    <tr>
+    	<td> UnTrack</td>
+    	<td>CVPR'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 61.3</td>
+    	<td> 61.0</td>
+    	<td> 61.2</td>
+   	<td> 87.1</td>
+    	<td> 81.5</td>
+    	<td> 72.1</td>
+    </tr>
+    <tr>
+    	<td> SDSTrack</td>
+    	<td>CVPR'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 61.9</td>
+    	<td> 60.9</td>
+    	<td> 61.4</td>
+   	<td> 88.3</td>
+    	<td> 81.2</td>
+    	<td> 72.8</td>
+    </tr>
+    <tr>
+    	<td> XTrack</td>
+    	<td>Arxiv'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 59.8</td>
+    	<td> 59.7</td>
+    	<td> 59.7</td>
+   	<td> 86.5</td>
+    	<td> 81.2</td>
+    	<td> 71.4</td>
+    </tr>
+    <tr>
+    	<td> Seqtrackv2</td>
+    	<td>Arxiv'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 62.9</td>
+    	<td> 63.4</td>
+    	<td> 63.2</td>
+   	<td> 81.9</td>
+    	<td> 91.8</td>
+    	<td> 75.5</td>
+    </tr>
+    <tr>
+    	<td> MINet</td>
+    	<td>IVC'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 60.3</td>
+    	<td> 60.5</td>
+    	<td> 60.4</td>
+   	<td> 81.6</td>
+    	<td> 87.7</td>
+    	<td> 72.3</td>
+    </tr>
+    <tr>
+    	<td> KSTrack</td>
+    	<td>TCSVT'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 60.0</td>
+    	<td> 57.4</td>
+    	<td> 58.7</td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
     </tr>
     <tr>
     	<td> CDAAT</td>
@@ -130,6 +214,34 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> 72.1</td>
     </tr>
     <tr>
+    	<td> ViPT</td>
+    	<td>CVPR'2023</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 59.2</td>
+    	<td> 59.6</td>
+    	<td> 59.4</td>
+   	<td> 87.1</td>
+    	<td> 81.5</td>
+    	<td> 72.1</td>
+    </tr>
+    <tr>
+    	<td> FDAFT</td>
+    	<td>PRCV'2023</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> 62.5</td>
+    	<td> 61.5</td>
+    	<td> 62.0</td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
     	<td> RGBD1K</td>
     	<td>AAAI'2023</td>
 	<td>25.3</td>
@@ -167,6 +279,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> 61.9</td>
     	<td> 59.7</td>
     	<td> 60.8</td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
+    	<td> ProTrack</td>
+    	<td>ACMMM'2022</td>
+	<td> </td>
+    	<td> 74.7</td>
+    	<td> 76.7</td>
+    	<td> 65.6</td>
+   	<td> 58.3</td>
+    	<td> 57.3</td>
+    	<td> 57.8</td>
    	<td> </td>
     	<td> </td>
     	<td> </td>
@@ -405,6 +531,24 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> No-Occ.</td>
     	<td> Passive</td>
     	<td> Active</td>
+    </tr>
+    <tr>
+    	<td> KSTrack</td>
+    	<td>TCSVT'2024</td>
+	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 77.3</td>
+    	<td> 84.9</td>
+    	<td> 83.6</td>
+    	<td> 79.8</td>
+    	<td> 83.3</td>
+    	<td> 82.6</td>
+    	<td> 81.3</td>
+    	<td> 73.4</td>
+    	<td> 96.8</td>
+    	<td> 80.3</td>
+    	<td> 82.2</td>
     </tr>
     <tr>
     	<td> SSLTrack</td>
