@@ -60,6 +60,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> EAO</td>
     </tr>
     <tr>
+    	<td> MixRGBX</td>
+    	<td>Neurocomputing'2024</td>
+	<td></td>
+    	<td>72.8</td>
+    	<td>81.6</td>
+    	<td>76.9</td>
+   	<td>59.3</td>
+    	<td>60.9</td>
+    	<td>60.1</td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
     	<td> OneTrack</td>
     	<td>CVPR'2024</td>
 	<td></td>
