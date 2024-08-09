@@ -60,6 +60,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> EAO</td>
     </tr>
     <tr>
+    	<td> AMATrack</td>
+    	<td>TIM'2024</td>
+	<td>73/RTX3070</td>
+    	<td>73.2</td>
+    	<td>78.6</td>
+    	<td>75.8</td>
+   	<td>62.9</td>
+    	<td>60.7</td>
+    	<td>61.8</td>
+   	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    </tr>
+    <tr>
     	<td> MixRGBX</td>
     	<td>Neurocomputing'2024</td>
 	<td></td>
