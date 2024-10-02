@@ -60,6 +60,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> EAO</td>
     </tr>
     <tr>
+    	<td> TABBTrack</td>
+    	<td>PR'2024</td>
+	<td>27/RTX3090</td>
+    	<td>72.1</td>
+    	<td>72.2</td>
+    	<td>72.1</td>
+   	<td>62.2</td>
+    	<td>61.5</td>
+    	<td>61.8</td>
+   	<td> 82.1</td>
+    	<td> 87.4</td>
+    	<td>72.2</td>
+    </tr>
+    <tr>
     	<td> AMATrack</td>
     	<td>TIM'2024</td>
 	<td>73/RTX3070</td>
@@ -405,6 +419,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<td> Pr</td>
     	<td> Re</td>
     	<td> F-score</td>
+    </tr>
+    <tr>
+    	<td> TABBTrack</td>
+    	<td>PR'2024</td>
+	<td>27/RTX3090</td>
+	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+   	<td> </td>
+    	<td> </td>
+	<td>51.0</td>
+   	<td>47.8</td>
+    	<td>49.3</td>
     </tr>
     <tr>
     	<td> CDAAT</td>
