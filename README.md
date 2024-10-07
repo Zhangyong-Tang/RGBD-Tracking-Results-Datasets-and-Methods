@@ -60,6 +60,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> EAO</td>
     </tr>
     <tr>
+    	<td> DepthRefiner</td>
+    	<td>ICME'2024</td>
+	<td>32/A100</td>
+    	<td>66.9</td>
+    	<td>68.4</td>
+    	<td>67.7</td>
+   	<td>51.3</td>
+    	<td>50.7</td>
+    	<td>51.0</td>
+   	<td> 79.7</td>
+    	<td> 73.3</td>
+    	<td>60.3</td>
+    </tr>
+    <tr>
     	<td> TABBTrack</td>
     	<td>PR'2024</td>
 	<td>27/RTX3090</td>
@@ -284,7 +298,7 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> </td>
     </tr>
     <tr>
-    	<td> RGBD1K</td>
+    	<td> SPT</td>
     	<td>AAAI'2023</td>
 	<td>25.3</td>
     	<td> 65.4</td>
@@ -419,6 +433,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<td> Pr</td>
     	<td> Re</td>
     	<td> F-score</td>
+    </tr>
+    <tr>
+    	<td> DepthRefiner</td>
+    	<td>ICME'2024</td>
+	<td>32/A100</td>
+	<td>50.0</td>
+    	<td> 52.9</td>
+    	<td> 51.6</td>
+    	<td> </td>
+   	<td> </td>
+    	<td> </td>
+	<td>51.0</td>
+   	<td>47.8</td>
+    	<td>49.3</td>
     </tr>
     <tr>
     	<td> TABBTrack</td>
