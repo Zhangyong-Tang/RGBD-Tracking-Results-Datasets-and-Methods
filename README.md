@@ -60,6 +60,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> EAO</td>
     </tr>
     <tr>
+    	<td> UBPT</td>
+    	<td>IEEE Sensor Journal'2024</td>
+	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+   	<td>61.5</td>
+    	<td>62.0</td>
+    	<td>61.7</td>
+   	<td> 82.0</td>
+    	<td> 87.1</td>
+    	<td>72.1</td>
+    </tr>
+    <tr>
     	<td> DepthRefiner</td>
     	<td>ICME'2024</td>
 	<td>32/A100</td>
