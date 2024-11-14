@@ -60,6 +60,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> EAO</td>
     </tr>
     <tr>
+    	<td> EMTrack</td>
+    	<td>TCSVT'2024</td>
+	<td>29.1/CPU</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+   	<td>58.0</td>
+    	<td>58.5</td>
+    	<td>58.3</td>
+   	<td> 80.6</td>
+    	<td> 84.4</td>
+    	<td>69.7</td>
+    </tr>
+    <tr>
     	<td> UBPT</td>
     	<td>IEEE Sensor Journal'2024</td>
 	<td></td>
