@@ -62,6 +62,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> EAO</td>
     </tr>
     <tr>
+    	<td> 3DPT</td>
+    	<td>ACCV'2024</td>
+	<td></td>
+    	<td>71.4</td>
+    	<td>73.6</td>
+    	<td>72.5</td>
+   	<td>61.9</td>
+    	<td>61.6</td>
+    	<td>61.7</td>
+   	<td> 82.2</td>
+    	<td> 88.3</td>
+    	<td>73.3</td>
+    </tr>
+    <tr>
     	<td> EMTrack</td>
     	<td>TCSVT'2024</td>
 	<td>29.1/CPU</td>
