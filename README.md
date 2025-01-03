@@ -62,6 +62,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> EAO</td>
     </tr>
     <tr>
+    	<td> SUTrack</td>
+    	<td>AAAI'2025</td>
+	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+   	<td>66.4</td>
+    	<td>66.4</td>
+    	<td>66.5</td>
+   	<td> 83.5</td>
+    	<td> 92.2</td>
+    	<td>76.6</td>
+    </tr>
+    <tr>
     	<td> 3DPT</td>
     	<td>ACCV'2024</td>
 	<td></td>
