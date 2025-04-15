@@ -62,6 +62,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> EAO</td>
     </tr>
     <tr>
+	    	<td>CMDTrack</td>
+    	<td>TPAMI'2025</td>
+	<td>67/2080Ti</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+   	<td>59.1</td>
+    	<td>60.7</td>
+    	<td>59.8</td>
+   	<td> </td>
+    	<td> </td>
+    	<td></td>
+    </tr>
+    <tr>
     	<td> SUTrack</td>
     	<td>AAAI'2025</td>
 	<td></td>
@@ -491,6 +505,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<td> Pr</td>
     	<td> Re</td>
     	<td> F-score</td>
+    </tr>
+    <tr>
+    	<td> CMDTrack</td>
+    	<td>TPAMI'2025</td>
+	<td>67/2080Ti</td>
+	<td>56.1</td>
+    	<td>59.2</td>
+    	<td>57.6</td>
+    	<td> </td>
+   	<td> </td>
+    	<td> </td>
+	<td></td>
+   	<td></td>
+    	<td></td>
     </tr>
     <tr>
     	<td> DepthRefiner</td>
