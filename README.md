@@ -62,6 +62,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> EAO</td>
     </tr>
     <tr>
+	    	<td>LightFC-X</td>
+    	<td>Arxiv'2025</td>
+	<td>81/A6000</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+   	<td>55.7</td>
+    	<td>52.0</td>
+    	<td>53.8</td>
+   	<td>76.0</td>
+    	<td>77.8</td>
+    	<td>60.5</td>
+    </tr>
+    <tr>
 	    	<td>CMDTrack</td>
     	<td>TPAMI'2025</td>
 	<td>67/2080Ti</td>
