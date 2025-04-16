@@ -62,6 +62,20 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> EAO</td>
     </tr>
     <tr>
+	    	<td>APTrack</td>
+    	<td>TAI'2025</td>
+	<td>50.5/4090</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+   	<td>62.3</td>
+    	<td>61.9</td>
+    	<td>62.1</td>
+   	<td>82.1</td>
+    	<td>93.4</td>
+    	<td>77.4</td>
+    </tr>
+    <tr>
 	    	<td>LightFC-X</td>
     	<td>Arxiv'2025</td>
 	<td>81/A6000</td>
